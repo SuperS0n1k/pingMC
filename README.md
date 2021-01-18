@@ -12,5 +12,5 @@ you could explore the store too!
  [nuclear modpack](https://www.curseforge.com/minecraft/modpacks/nukestuffs/download?client=y)
 
 
-[super hostile modpack](curseforge://install?addonId=419053&fileId=3169272)
+[super hostile modpack](https://www.curseforge.com/minecraft/modpacks/super-hostile-modpack/download?client=y)
  
