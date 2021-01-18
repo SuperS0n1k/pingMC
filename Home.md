@@ -7,3 +7,4 @@ well, we try to give people endless oportunities to make minecraft just like rea
 # can i help?
 yes, you may,we always would love to hear your suggestions!, to suggest a mod, please go to our discussions page [here](https://github.com/reter695/pingMC/discussions)
 ## we will be happy to know what you want to suggest!
+you could explore the [store] (https://reter695.github.io/pingMC/GALLERY.md) too! 
