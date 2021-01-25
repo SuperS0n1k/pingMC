@@ -8,9 +8,8 @@ well, we try to give people endless oportunities to make minecraft just like rea
 yes, you may,we always would love to hear your suggestions!, to suggest a mod, please go to our discussions page [here](https://github.com/reter695/pingMC/discussions)
 ## we will be happy to know what you want to suggest!
 you could explore the store too!
- [!]
+ # store
  [nuclear modpack](https://www.curseforge.com/minecraft/modpacks/nukestuffs/download?client=y)
-
-
+# ------------------------------------------------------------------
 [super hostile modpack](https://www.curseforge.com/minecraft/modpacks/super-hostile-modpack/download?client=y)
  
