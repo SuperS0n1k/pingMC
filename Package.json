@@ -1,0 +1,26 @@
+{
+  "name": "discord-stacks",
+  "version": "1.2.1",
+  "description": "a minecraft mod store",
+  "main": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reter695/pingmc.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
+  },
+  "keywords": [
+    "discord",
+    "js",
+    "s0n1c",
+    "discordjs"
+  ],
+  "author": "unc0ver",
+  "license": "apache",
+  "bugs": {
+    "url": "https://github.com/reter695/pingmc/discussions"
+  },
+  "homepage": "https://github.com/reter695/pingmc",
+  }
+}
